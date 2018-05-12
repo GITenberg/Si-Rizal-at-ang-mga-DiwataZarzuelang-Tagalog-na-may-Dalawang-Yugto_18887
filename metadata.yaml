@@ -1,0 +1,27 @@
+_repo: Si-Rizal-at-ang-mga-DiwataZarzuelang-Tagalog-na-may-Dalawang-Yugto_18887
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18887-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Sevilla, Jose N.
+    alias: Sevilla, José N.
+    birthdate: 1880
+    deathdate: 1946
+    gutenberg_agent_id: '4869'
+    url: http://www.gutenberg.org/2009/agents/4869
+description: ''
+gutenberg_issued: '2006-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18887'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Tagalog drama'
+title: 'Si Rizal at ang mga Diwata: Zarzuelang Tagalog na may Dalawang Yugto'
+url: http://www.gutenberg.org/ebooks/18887
